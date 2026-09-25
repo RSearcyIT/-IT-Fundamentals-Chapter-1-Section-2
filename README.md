@@ -3,3 +3,4 @@
 Understanding the Help Desk Profession and the Role of a Help Desk Technician 
 
 ## **Five Common Help Desk Task**
+- **Password Reset**-
